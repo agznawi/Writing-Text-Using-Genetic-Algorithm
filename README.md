@@ -13,4 +13,4 @@ The algorithm:
 3. Select parents from best individuals
 4. Crossover each pair of parents to creat a new offspring
 5. Mutate some offsprings
-6. Repeat 2 to 6 unitl e.g. finding termination criterion
+6. Repeat 2 to 5 unitl e.g. finding termination criterion
