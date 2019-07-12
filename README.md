@@ -1,6 +1,7 @@
 # Writing-Text-Using-Genetic-Algorithm
 
-Watch it on YouTube: https://www.youtube.com/watch?v=o7J1Tzq-52s
+Watch it on YouTube:
+https://www.youtube.com/watch?v=o7J1Tzq-52s
 
 This program uses genetic algorithm to write an excerpt from Hamlet by generating random texts, evaluating each text, combining and modifying best texts randomly, and re-evaluating. The program repeats until the perfect text is found. The program evaluates each text by comparing it with the correct solution (an excerpt from Hamlet), and gives the text a score based on this comparison.
 
